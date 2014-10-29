@@ -1,9 +1,10 @@
 /* line 5, /Users/ghost/Sites/porpoise/source/stylesheets/all.css.scss */
 body, html {
   width: 100%;
-  height: 100%; }
+  height: 100%;
+  overflow: hidden; }
 
-/* line 10, /Users/ghost/Sites/porpoise/source/stylesheets/all.css.scss */
+/* line 11, /Users/ghost/Sites/porpoise/source/stylesheets/all.css.scss */
 img {
   width: 80px;
   height: auto;
@@ -15,7 +16,7 @@ img {
   -webkit-animation: porpoise 3000ms 2000ms infinite ease-in-out;
   animation: porpoise 3000ms 2000ms infinite ease-in-out; }
 
-/* line 20, /Users/ghost/Sites/porpoise/source/stylesheets/all.css.scss */
+/* line 21, /Users/ghost/Sites/porpoise/source/stylesheets/all.css.scss */
 iframe {
   position: absolute;
   left: -1000%; }
@@ -27,7 +28,7 @@ iframe {
     -moz-transform: rotate(120deg);
     transform: rotate(120deg); }
   33% {
-    bottom: 80%; }
+    bottom: 70%; }
   66% {
     bottom: -30%;
     left: 40%;
@@ -45,7 +46,7 @@ iframe {
     -webkit-transform: rotate(120deg);
     transform: rotate(120deg); }
   33% {
-    bottom: 80%; }
+    bottom: 70%; }
   66% {
     bottom: -30%;
     left: 40%;
@@ -65,7 +66,7 @@ iframe {
     -webkit-transform: rotate(120deg);
     transform: rotate(120deg); }
   33% {
-    bottom: 80%; }
+    bottom: 70%; }
   66% {
     bottom: -30%;
     left: 40%;
