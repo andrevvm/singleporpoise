@@ -62,7 +62,6 @@ iframe {
     bottom: -30%;
     left: 55%;
     -moz-transform: rotate(120deg);
-    -ms-transform: rotate(120deg);
     -webkit-transform: rotate(120deg);
     transform: rotate(120deg); }
   33% {
@@ -71,13 +70,11 @@ iframe {
     bottom: -30%;
     left: 40%;
     -moz-transform: rotate(-460deg);
-    -ms-transform: rotate(-460deg);
     -webkit-transform: rotate(-460deg);
     transform: rotate(-460deg); }
   100% {
     bottom: -30%;
     left: 40%;
     -moz-transform: rotate(-460deg);
-    -ms-transform: rotate(-460deg);
     -webkit-transform: rotate(-460deg);
     transform: rotate(-460deg); } }
