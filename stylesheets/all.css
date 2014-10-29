@@ -35,7 +35,7 @@ iframe {
     transform: rotate(-460deg); }
   100% {
     bottom: -30%;
-    left: 35%;
+    left: 40%;
     -moz-transform: rotate(-460deg);
     transform: rotate(-460deg); } }
 @-webkit-keyframes porpoise {
@@ -53,7 +53,7 @@ iframe {
     transform: rotate(-460deg); }
   100% {
     bottom: -30%;
-    left: 35%;
+    left: 40%;
     -webkit-transform: rotate(-460deg);
     transform: rotate(-460deg); } }
 @keyframes porpoise {
@@ -75,7 +75,7 @@ iframe {
     transform: rotate(-460deg); }
   100% {
     bottom: -30%;
-    left: 35%;
+    left: 40%;
     -moz-transform: rotate(-460deg);
     -ms-transform: rotate(-460deg);
     -webkit-transform: rotate(-460deg);
